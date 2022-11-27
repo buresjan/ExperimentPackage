@@ -32,5 +32,5 @@ dependencies:
   - xz=5.2.6=h5eee18b_0
   - zlib=1.2.13=h5eee18b_0
   - pip:
-        - --editable git+https://github.com/buresjan/ExperimentPackage.git
+        - --editable git+https://github.com/buresjan/ExperimentPackage.git#egg=utils
 prefix: /home/jan/anaconda3/envs/my_env
