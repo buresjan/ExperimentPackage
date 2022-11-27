@@ -31,6 +31,6 @@ dependencies:
   - wheel=0.37.1=pyhd3eb1b0_0
   - xz=5.2.6=h5eee18b_0
   - zlib=1.2.13=h5eee18b_0
-  - - pip:
+  - pip:
         - --editable https://github.com/buresjan/ExperimentPackage.git
 prefix: /home/jan/anaconda3/envs/my_env
